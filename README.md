@@ -4,7 +4,7 @@ PythonMiniProjects is a collection of small Python projects, experiments, and re
 
 Each project begins with a simple, usable version that I may revisit as my skills develop. The project bank provides ideas to choose from, rather than a required sequence or a list of completed work. Snippets capture focused examples and approaches that I can reference or reuse in future projects.
 
-Nenomorph tools, engineering projects, reusable engineering libraries, and larger applications belong in separate repositories. If an experiment here grows into a standalone tool—such as a GUI calculator or converter, then it may move into its own dedicated repository for continued development.
+Nenomorph tools, engineering projects, reusable engineering libraries, and larger applications belong in separate repositories. If an experiment here grows into a standalone tool such as a GUI calculator or converter, then it may move into its own dedicated repository for continued development.
 
 <hr>
 
