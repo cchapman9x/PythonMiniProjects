@@ -14,8 +14,8 @@ Nenomorph tools, engineering projects, reusable engineering libraries, and large
 
 ### Project Tracking
 Each project has two checkboxes:
-- Built: A working version is finished
-- Uploaded: That version has been added to this repository
+- <b>Built</b>: A working version is finished
+- <b>Uploaded</b>: That version has been added to this repository
 
 Change [ ] to [x] as each milestone is reached. All projects currently remain unchecked in this tracker.
 
