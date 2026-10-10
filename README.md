@@ -49,7 +49,7 @@ Enter the original and desired serving counts and a few ingredient quantities. P
 - [ ] Uploaded
 </details>
 
-<hr>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Text and Collection Challenges
 <details>
