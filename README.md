@@ -613,7 +613,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 <hr>
 
-## Resources
+### Resources
 
 All 35 links from the original project bank are retained below, grouped by purpose, with two additional Python references for timing and JSON. The Python references support practice scripts and snippets; the broader references remain available for background reading and future work in other repositories.
 
