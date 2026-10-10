@@ -34,8 +34,6 @@ These labels describe rough prerequisites. Individual projects may use only some
 
 ### Mini Project Bank
 These are optional practice ideas, not a required order or a list of completed work. Some involve concepts I will learn in later sections of the course. Additional snippet experiments can be added as I go.
-- Built: The small working version is finished.
-- Uploaded: That version has been added to this repository.
 
 Small Everyday Scripts
 <details>
