@@ -609,6 +609,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
+<hr>
 
 ## Resources
 
