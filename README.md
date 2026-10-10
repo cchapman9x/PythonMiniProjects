@@ -37,19 +37,9 @@ These are optional practice ideas, not a required order or a list of completed w
 
 **40 optional ideas · Updated October 10, 2026**
 
+
+
 ![Everyday Scripts](https://img.shields.io/badge/Everyday_Scripts-238636?style=for-the-badge)
-
-![Text Challenges](https://img.shields.io/badge/Text_Challenges-0969DA?style=for-the-badge)
-
-![Collections and Data](https://img.shields.io/badge/Collections_and_Data-8957E5?style=for-the-badge)
-
-![File and Format Experiments](https://img.shields.io/badge/File_and_Format_Experiments-9E6A03?style=for-the-badge)
-
-![Number and Randomness Experiments](https://img.shields.io/badge/Number_and_Randomness_Experiments-BC4C00?style=for-the-badge)
-
-![Small Terminal Games](https://img.shields.io/badge/Small_Terminal_Games-DA3633?style=for-the-badge)
-
-#### Everyday Scripts
 
 <details>
 <summary><b>Bill Splitter</b></summary>
@@ -135,7 +125,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
-#### Text Challenges
+![Text Challenges](https://img.shields.io/badge/Text_Challenges-0969DA?style=for-the-badge)
 
 <details>
 <summary><b>Text Statistics</b></summary>
@@ -249,7 +239,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
-#### Collections and Data
+![Collections and Data](https://img.shields.io/badge/Collections_and_Data-8957E5?style=for-the-badge)
 
 <details>
 <summary><b>Duplicate Finder</b></summary>
@@ -363,7 +353,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
-#### File and Format Experiments
+![File and Format Experiments](https://img.shields.io/badge/File_and_Format_Experiments-9E6A03?style=for-the-badge)
 
 <details>
 <summary><b>Text File Difference</b></summary>
@@ -449,7 +439,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
-#### Number and Randomness Experiments
+![Number and Randomness Experiments](https://img.shields.io/badge/Number_and_Randomness_Experiments-BC4C00?style=for-the-badge)
 
 <details>
 <summary><b>Collatz Sequence</b></summary>
@@ -535,7 +525,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 </details>
 
-#### Small Terminal Games
+![Small Terminal Games](https://img.shields.io/badge/Small_Terminal_Games-DA3633?style=for-the-badge)
 
 <details>
 <summary><b>Tic-Tac-Toe</b></summary>
