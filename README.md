@@ -37,6 +37,18 @@ These are optional practice ideas, not a required order or a list of completed w
 
 **40 optional ideas · Updated October 10, 2026**
 
+![Everyday Scripts](https://img.shields.io/badge/Everyday_Scripts-238636?style=for-the-badge)
+
+![Text Challenges](https://img.shields.io/badge/Text_Challenges-0969DA?style=for-the-badge)
+
+![Collections and Data](https://img.shields.io/badge/Collections_and_Data-8957E5?style=for-the-badge)
+
+![File and Format Experiments](https://img.shields.io/badge/File_and_Format_Experiments-9E6A03?style=for-the-badge)
+
+![Number and Randomness Experiments](https://img.shields.io/badge/Number_and_Randomness_Experiments-BC4C00?style=for-the-badge)
+
+![Small Terminal Games](https://img.shields.io/badge/Small_Terminal_Games-DA3633?style=for-the-badge)
+
 #### Everyday Scripts
 
 <details>
