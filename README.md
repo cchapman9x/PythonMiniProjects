@@ -35,8 +35,6 @@ These labels describe rough prerequisites. Individual projects may use only some
 ### Mini Project Bank
 These are optional practice ideas, not a required order or a list of completed work. Some involve concepts I will learn in later sections of the course. Additional snippet experiments can be added as I go.
 
-**40 optional ideas · Updated October 10, 2026**
-
 <details>
 <summary><img src="https://img.shields.io/badge/Everyday_Scripts-238636?style=for-the-badge" alt="Everyday Scripts"></summary>
 
