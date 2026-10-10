@@ -17,7 +17,7 @@ Each project has two checkboxes:
 - <b>Built</b>: A working version is finished
 - <b>Uploaded</b>: That version has been added to this repository
 
-Change [ ] to [x] as each milestone is reached. All projects currently remain unchecked in this tracker.
+Change `[ ]` to `[x]` as each milestone is reached. All projects currently remain unchecked in this tracker.
 
 <hr>
 
@@ -37,17 +37,6 @@ These are optional practice ideas, not a required order or a list of completed w
 
 **40 optional ideas · Updated October 10, 2026**
 
-These are practice ideas, not a required sequence or a record of completed work. Some use concepts covered in later course sections.
-
-| Level  | Typical knowledge                                            |
-| ------ | ------------------------------------------------------------ |
-| Basics | Variables, input, strings, arithmetic, collections, conditions, and simple loops. |
-| Next   | Functions, nested logic, file handling, or more involved program state. |
-
-The labels are rough prerequisite guides. Finishing the course’s basics section does not mean every idea is ready to build immediately.
-
-Each entry has two milestones: **Built** means the working version is finished; **Uploaded** means it has been added to this repository. Change `[ ]` to `[x]` when that milestone is reached. No completed work is assumed here.
-
 - [Everyday Scripts](#everyday-scripts)
 - [Text Challenges](#text-challenges)
 - [Collections and Data](#collections-and-data)
@@ -55,9 +44,12 @@ Each entry has two milestones: **Built** means the working version is finished; 
 - [Number and Randomness Experiments](#number-and-randomness-experiments)
 - [Small Terminal Games](#small-terminal-games)
 
-### Everyday Scripts
+#### Everyday Scripts
 
-#### Bill Splitter
+<details>
+<summary>View 6 project ideas</summary>
+  
+##### Bill Splitter
 
 **Level:** Basics
 
@@ -72,7 +64,7 @@ Each entry has two milestones: **Built** means the working version is finished; 
 
 ---
 
-#### Recipe Batch Scaler
+##### Recipe Batch Scaler
 
 **Level:** Basics
 
