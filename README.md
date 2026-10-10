@@ -7,8 +7,8 @@ Each project begins with a simple, usable version that I may revisit as my skill
 Nenomorph tools, engineering projects, reusable engineering libraries, and larger applications belong in separate repositories. If an experiment here grows into a standalone tool such as a GUI calculator or converter, then it may move into its own dedicated repository for continued development.
 
 #### Organization
-- Mini Projects: Each project has its own folder with its code and a brief explanation of what it does and how to run it.
-- Snippets & Tests: Group related experiments by topic. Use comments to explain the question being tested and the observed result.
+- <b>Mini Projects</b>
+- <b>Snippets & Tests</b>
 
 <hr>
 
