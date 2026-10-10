@@ -37,19 +37,10 @@ These are optional practice ideas, not a required order or a list of completed w
 
 **40 optional ideas · Updated October 10, 2026**
 
-- [Everyday Scripts](#everyday-scripts)
-- [Text Challenges](#text-challenges)
-- [Collections and Data](#collections-and-data)
-- [File and Format Experiments](#file-and-format-experiments)
-- [Number and Randomness Experiments](#number-and-randomness-experiments)
-- [Small Terminal Games](#small-terminal-games)
-
-#### Everyday Scripts
-
 <details>
-<summary>View 6 project ideas</summary>
+<summary>Everyday Scripts</summary>
   
-##### Bill Splitter
+#### Bill Splitter
 
 **Level:** Basics
 
@@ -64,7 +55,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 ---
 
-##### Recipe Batch Scaler
+#### Recipe Batch Scaler
 
 **Level:** Basics
 
@@ -137,7 +128,8 @@ These are optional practice ideas, not a required order or a list of completed w
 
 ---
 
-### Text Challenges
+<details>
+<summary>Text Challenges</summary>
 
 #### Text Statistics
 
