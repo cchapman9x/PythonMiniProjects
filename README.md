@@ -1,6 +1,10 @@
 # PythonMiniProjects
 
-A collection of Python mini projects built to strengthen programming fundamentals and problem-solving skills through practical tools, simulations, and experiments. I'm building these projects independently, one at a time, as learn more about Python. Each project starts with a small, usable version. I may revisit it later to improve the code, add features, or build a graphical interface as my skills develop. The project bank below is a collection of ideas to choose from. It is not a required sequence or a list of completed work. This is mainly for reviewing my python knowledge and rebuilding my skills in programming.
+PythonMiniProjects is a collection of small Python projects, experiments, and reusable code snippets that I’m building to review what I know, rebuild my programming skills, and explore new concepts. It serves as both a project bank and a snippet bank. It is a place to practice problem-solving, investigate how code behaves, and build small programs independently.
+
+Each project begins with a simple, usable version that I may revisit as my skills develop. The project bank provides ideas to choose from, rather than a required sequence or a list of completed work. Snippets capture focused examples and approaches that I can reference or reuse in future projects.
+
+Nenomorph tools, engineering projects, reusable engineering libraries, and larger applications belong in separate repositories. If an experiment here grows into a standalone tool—such as a GUI calculator or converter, then it may move into its own dedicated repository for continued development.
 
 <hr>
 
