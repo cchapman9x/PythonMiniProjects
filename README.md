@@ -49,7 +49,7 @@ Enter the original and desired serving counts and a few ingredient quantities. P
 - [ ] Uploaded
 </details>
 
-<hr style="border: none; border-top: 2px dotted black; width: 100%;">
+<div style="border-top: 2px dotted blue; width: 100%;"></div>
 
 Text and Collection Challenges
 <details>
