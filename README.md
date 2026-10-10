@@ -6,4 +6,5 @@ A collection of Python mini projects built to strengthen programming fundamental
 Each project has two checkboxes:
 - Built: A working version is finished
 - Uploaded: That version has been added to this repository
+
 Change [ ] to [x] as each milestone is reached. All projects currently remain unchecked in this tracker.
