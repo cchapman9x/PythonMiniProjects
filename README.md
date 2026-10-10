@@ -613,7 +613,7 @@ These are optional practice ideas, not a required order or a list of completed w
 
 ## Resources
 
-All 35 links from the original project bank are retained below, grouped by purpose, with two additional Python references for timing and JSON. The original bank records them as consulted on October 3, 2026. The Python references support practice scripts and snippets; the broader references remain available for background reading and future work in other repositories.
+All 35 links from the original project bank are retained below, grouped by purpose, with two additional Python references for timing and JSON. The Python references support practice scripts and snippets; the broader references remain available for background reading and future work in other repositories.
 
 A reference explains a language feature, formula, format, or game rule. It is not a requirement to build a full tool or follow a complete course.
 
