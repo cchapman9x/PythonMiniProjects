@@ -19,3 +19,9 @@ Change [ ] to [x] as each milestone is reached. All projects currently remain un
 | Starter | Input, variables, arithmetic, conditions, loops, and small collections. |
 | Intermediate | Multiple functions, file handling, or more involved program state. |
 | Later | Additional mathematics, algorithms, or simulation concepts. |
+
+These labels describe rough prerequisites. Individual projects may use only some of the listed concepts.
+
+<hr>
+
+
