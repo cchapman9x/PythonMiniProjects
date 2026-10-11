@@ -1,6 +1,7 @@
 '''
 Project: PyNumCore - Basic Math Library
 Last Updated: 10/10/2026
+Version: 1.3
 Name: Caleb Chapman
 
 Description: This library contains the basic functions that form the basis of the PyNumCore math engine. 
@@ -15,11 +16,11 @@ Functions contained in this library:
 3. multiply() --> Finished
 4. divide() --> Finished
 5. power() --> Finished
-6. root() --> Finished
+6. root() --> In Progress (Usable)
 7. absolute_value() --> Finished
-8. remainder_c1() --> Finished
-9. remainder_c2() --> Finished
-10. floor_division() --> Finished
+8. remainder_c1() --> In Progress (Usable)
+9. remainder_c2() --> In Progress (Usable)
+10. floor_division() --> In Progress (Usable)
 11. reciprocal() --> Finished
 12. part_using_percentage() --> Finished
 13. percentage_using_part() --> Finished
@@ -158,11 +159,36 @@ Index (n) - Tells us which root to take
 Radicand's Power (m) - The power of the radicand while it is under the root
 A radical can be rewritten as a fractional exponent, where the reciprocal of the index becomes the exponent
 root(x) = x^((power of x under root) / root's index) = x^(m/n)
+
+When even index roots have a negative number as the radicand, they produce imaginary numbers
+When odd index roots have a negative number as the radicand, they produce non-imaginary negative numbers
+m can also change the sign of the radicand, so we need to account for that in the function
+So we need to watch out for imaginary and complex numbers
+When the index is a fraction, that can also change the sign of the result
 '''
 
 def root(radicand, m, index):
-    # Error Reminder - Include method to handle an index of 0 
-    totalRoot = power(radicand, (m / index))
+    # Function does not work when the index is a fraction
+    
+    if index == 0:
+        return "Undefined | The roots index can't be zero"
+    elif (radicand == 0) and (m < 0):
+        return "Undefined | ZeroDivisionError"
+
+    totalRadicand = (radicand)**m # reduces redundancy for error checking
+
+    # Raise the radicand to the power of m to make sure you have the right sign
+    if isinstance(totalRadicand, complex):
+        return "Undefined | Root Function doesn't support complex numbers"
+    elif (totalRadicand < 0) and (index % 2 == 0): # determine if the index is even or odd
+        return "Undefined | Root function doesn't support imaginary numbers"
+    elif (totalRadicand < 0) and (isinstance(index, int) == True): # index has to be odd for negative numbers
+        sign = -1
+    else:
+        sign = 1
+
+    totalRoot = power(absolute_value(radicand), (m / index))
+    totalRoot *= sign
 
     return totalRoot
 
